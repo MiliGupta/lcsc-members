@@ -1,5 +1,6 @@
 # lcsc-members
 list of members
 
-Becker | Becker | barrybecker4 | the longest journey begins with a single step.
-Fong | Sean | seancnfg | It's raining too much this week...
+Nathan | Jay | jn8302 | Why is it so cold in here?
+
+Gupta | Mili | pjatohoo | e^(iπ) + 1
